@@ -1,0 +1,8 @@
+<!-- Made by Svznify - https://github.com/Svznify -->
+<BloxstrapCustomBootstrapper Version="1" Height="560" Width="995" AllowTransparency="True" WindowBackdropType="Disable" WindowCornerPreference="DoNotRound">
+<TitleBar Title="" Visibility="Collapsed" Opacity="0.001"/>
+<Image Source="theme://bg.png"/>
+<Image Height="100" Width="100" Source="{Icon}" Margin="0,180,0,0" HorizontalAlignment="center"/>
+<Image Height="25" Width="25" Source="theme://loading.gif" Margin="0,380,0,0" IsAnimated="True" HorizontalAlignment="center"/>
+<TextBlock Name="StatusText" Width="1120" Height="30" HorizontalAlignment="Center" Margin="0,415,0,0" Foreground="{TextFillColorPrimaryBrush}" FontFamily="Segoe UI" FontWeight="Normal"/>
+</BloxstrapCustomBootstrapper>
