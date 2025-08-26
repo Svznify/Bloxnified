@@ -70,8 +70,8 @@ Below are preview placeholders for each version. Add the matching images to `scr
 1. Go to the Releases page for this repository and download any release (each release contains a zip of the bootstrappers).
 2. Open Bloxstrap or Fishstrap.
 3. Navigate to Appearance > Bootstrappers.
-4. For Bloxstrap: set the bootstrapper's style to "Custom", click the "New" button, then choose Import and select the zip file you downloaded. For Fishstrap the flow is similar — use the Appearance/Bootstrappers section and import the zip.
-5. Apply the changes and restart the bootstrapper if required.
+4. Under Bootstrappers: set the bootstrapper's style to "Custom", click the "New" button, then choose Import and select the zip file you downloaded. For Fishstrap the flow is similar — use the Appearance/Bootstrappers section and import the zip.
+5. Save your changes.
 
 Notes:
 - If you prefer to inspect or modify theme files manually, extract the zip and copy the theme folder you want into your bootstrapper's assets, or edit `Theme.xml` directly.
